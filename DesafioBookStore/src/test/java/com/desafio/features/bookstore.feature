@@ -6,8 +6,8 @@ Feature: Testes da BookStore
     * def token = auth.token
     * def userId = auth.userId
 
-    * print '>>> Token Autenticação:', token
-    * print '>>> UserID:', userId
+    * print 'Token Autenticação:', token
+    * print 'UserID:', userId
 
     * configure headers = { Authorization: '#("Bearer " + token)' }
 
@@ -67,4 +67,5 @@ Feature: Testes da BookStore
   Scenario: Deletar Usuário (Limpeza Final)
     Given path '/Account/v1/User/' + userId
     When method DELETE
+
     Then status 204
