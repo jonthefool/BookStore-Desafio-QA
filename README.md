@@ -49,11 +49,4 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 * [Maven](https://maven.apache.org/download.cgi)
 * IDE de sua preferência (VS Code, IntelliJ, Eclipse)
 
----
 
-## Como Executar
-
-### 1. Clonar o repositório
-```bash
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-cd SEU-REPOSITORIO
