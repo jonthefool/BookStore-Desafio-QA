@@ -6,7 +6,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Karate](https://img.shields.io/badge/Karate-DSL-ff5c5c?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 </div>
 
